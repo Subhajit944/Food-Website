@@ -6,10 +6,10 @@ This is a basic food website created using HTML and CSS.
 
 View the food website 👉👉 
 ------
-🛠 Technologies Used:-
+# 🛠 Technologies Used:-
 
-HTML,
-CSS
+ HTML,
+ CSS
 --------
 Thanks for visiting! 🌟
 
