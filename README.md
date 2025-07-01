@@ -8,7 +8,8 @@ View the food website 👉👉 https://food-website-by-subhajit.netlify.app/
 
 ------
  🛠 Technologies Used:-
-html,css
+ 
+HTML, CSS
 --------
 Thanks for visiting! 🌟
 
