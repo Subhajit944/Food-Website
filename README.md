@@ -2,7 +2,7 @@
 
 This is a basic food website created using HTML and CSS. 
 ------
-🌐 Live Demo
+🌐 Live Demo:
 
 View the food website 👉👉 https://food-website-by-subhajit.netlify.app/    
 
