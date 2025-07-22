@@ -7,7 +7,7 @@ This is a basic food website created using HTML and CSS.
 View the food website 👉👉 https://food-website-by-subhajit.netlify.app/       
  
 ------
- 🛠 Technologies Used:-  
+ 🛠 Technologies Used:-   
  
 HTML, CSS
 --------
