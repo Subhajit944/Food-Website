@@ -11,6 +11,6 @@ View the food website 👉👉 https://food-website-by-subhajit.netlify.app/
  
 HTML, CSS
 --------
-Thanks for visiting! 🌟
+Thanks for visiting! 🌟 
 
 If you found this helpful and want to learn more, follow me! 
